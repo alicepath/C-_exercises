@@ -1,1 +1,5 @@
-# C-_exercises
+# CSharp_exercises
+主要是一些CSharp程式碼為主的小專案，以"個檔"或是"資料夾"形式存在
+
+# 簡介
+1: 蒙地卡羅法計算圓周率
